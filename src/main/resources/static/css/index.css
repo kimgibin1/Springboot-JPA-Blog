@@ -1,0 +1,21 @@
+#test{
+	border: red 2px solid;
+}
+.a{
+	border: yellow 2px solid;
+}
+#button{
+	width:  130px;
+	height: 30px;
+}
+
+#tt{
+	width:  130px;
+	height: 30px;
+}
+
+#textarea{
+	border:  1px solid black;
+	width:  300px;
+	height:400px;
+}
